@@ -17,18 +17,6 @@
 
 ---
 
-## 🎨 Colores Oficiales NeWorldCoin
-
-| Color                 | Uso principal          | Hex      | Muestra      |
-|-----------------------|-----------------------|----------|--------------|
-| Oro principal         | Moneda, borde, texto  | #CFA349  | ![#CFA349](https://via.placeholder.com/16/CFA349/000000?text=+) |
-| Oro oscuro            | Sombra, detalles      | #806637  | ![#806637](https://via.placeholder.com/16/806637/000000?text=+) |
-| Beige claro / brillos | Brillos, relieve      | #F6DD8A  | ![#F6DD8A](https://via.placeholder.com/16/F6DD8A/000000?text=+) |
-| Sombras profundas     | Profundidad, borde    | #432D10  | ![#432D10](https://via.placeholder.com/16/432D10/000000?text=+) |
-| Negro / fondo         | Fondo, contraste      | #222222  | ![#222222](https://via.placeholder.com/16/222222/000000?text=+) |
-
-------
-
 ## ✅ Uso correcto del logo
 
 - Utiliza siempre el archivo PNG original, fondo transparente.
@@ -47,18 +35,6 @@
 - No gires, inviertas o recortes el logo.
 
 ---
-
-## 🚫 Ejemplos visuales de uso incorrecto
-
-| Ejemplo                   | Imagen                     | Explicación                        |
-|---------------------------|----------------------------|------------------------------------|
-| Colores alterados         | ![bad_color](bad_color.png)      | No cambiar colores oficiales.      |
-| Proporciones distorsionadas | ![bad_ratio](bad_ratio.png)     | No aplastar ni estirar el logo.    |
-| Con efectos o sombra      | ![bad_shadow](bad_shadow.png)    | No agregar efectos ni brillos.     |
-| Sobre fondo confuso       | ![bad_bg](bad_bg.png)           | No usar en fondos ruidosos.        |
-
----
-
 
 ## Instrucciones para Exchanges, Wallets y Agregadores
 
