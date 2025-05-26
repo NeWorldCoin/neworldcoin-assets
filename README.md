@@ -10,7 +10,7 @@
 
 ## Logo Oficial
 
-![Logo NeWorldCoin](./neworld_logo_(512x512).png)
+![Logo NeWorldCoin](./NWC-Logo(512x512).png
 
 **Formato:** PNG, 512x512px, fondo transparente  
 **Uso:** Solo para representar el token NWC, no modificar colores ni proporciones.
