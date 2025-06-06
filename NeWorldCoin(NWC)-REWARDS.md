@@ -3,7 +3,7 @@
 - **Name:** NWCRewards
 - **Network:** BSC Mainnet
 - **Official address:**  
-  [`0xREWARDCONTRACTADDRESS`](https://bscscan.com/address/0xREWARDCONTRACTADDRESS)
+  [`0x4Fd82600e543fa4bF4bA5328c7b9BcAc600006D8`](https://bscscan.com/address/0x4Fd82600e543fa4bF4bA5328c7b9BcAc600006D8)
 - **BscScan verified & open source**
 
 **Description:**  
