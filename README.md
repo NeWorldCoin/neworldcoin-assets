@@ -20,9 +20,13 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 
 > **Never send funds to any other address. This is the only valid NWC contract.**
 
+-Para Español, consulta [README_ES.md](README_ES.md)
+
 - [Rewards System (NWCRewards)](NeWorldCoin(NWC)-REWARDS.md)
 
-- [Rewards System (NWCRewards)](NeWorldCoin(NWC)_ES REWARDS.md)
+- [Documentación de Rewards en español](NeWorldCoin(NWC)_ES REWARDS.md)
+
+
 ---
 
 ## 📦 Official Branding & Logos
