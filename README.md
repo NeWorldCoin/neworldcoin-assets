@@ -24,8 +24,7 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 
 - [Rewards System (NWCRewards)](NeWorldCoin(NWC)-REWARDS.md)
 
-- [Documentación de Rewards en español](NeWorldCoin(NWC)_ES REWARDS.md)
-
+  Para Sistemas de Recompensas en Español, consulta [Documentación de Rewards en español]NeWorldCoin(NWC)(REWARDS_ES.md)
 
 ---
 
