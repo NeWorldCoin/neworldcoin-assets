@@ -12,9 +12,9 @@ Diseñada para micropagos, recompensas, empresas y personas que buscan una moned
 ## 🏦 Contrato Oficial (BSC Mainnet)
 
 - **Dirección oficial (BSC Mainnet):**  
-  [`0x22c5C6d081bdD9bCc14608759659302013f1c7C1`](https://bscscan.com/address/0x22c5C6d081bdD9bCc14608759659302013f1c7C1)
+  [`0xb22f7282aF0F418F13172Ff12D2b24655C0D30Ac`](https://bscscan.com/address/0xb22f7282aF0F418F13172Ff12D2b24655C0D30Ac)
 - **Verificado y abierto en BscScan**
-- **Suministro fijo:** 1,000,000,000 NWC (sin mint, sin inflación)
+- **Suministro fijo:** 100,000,000 NWC (sin mint, sin inflación)
 - **Símbolo:** NWC
 - **Decimales:** 8
 
@@ -116,7 +116,7 @@ Escribe a info@neworldcoin.org o por Telegram.
 
 ## 📂 Apéndice: Enlaces y Assets
 
-- Contrato BSC Mainnet: [`0x22c5C6d081bdD9bCc14608759659302013f1c7C1`](https://bscscan.com/address/0x22c5C6d081bdD9bCc14608759659302013f1c7C1)
+- Contrato BSC Mainnet: [`0xb22f7282aF0F418F13172Ff12D2b24655C0D30Ac`](https://bscscan.com/address/0xb22f7282aF0F418F13172Ff12D2b24655C0D30Ac)
 - Web oficial: [neworldcoin.org](https://neworldcoin.org)
 ## 📦 Repositorio Oficial de NeWorldCoin (NWC)
 Todos los archivos oficiales, logos, políticas y contratos se encuentran aquí:  
