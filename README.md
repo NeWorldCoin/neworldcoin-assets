@@ -123,7 +123,9 @@ Email info@neworldcoin.org or contact us via Telegram.
 
 - BSC Mainnet Contract: [`0x22c5C6d081bdD9bCc14608759659302013f1c7C1`](https://bscscan.com/address/0x22c5C6d081bdD9bCc14608759659302013f1c7C1)
 - Official web: [neworldcoin.org](https://neworldcoin.org)
-- GitHub repo: [insert your repo link]
+## 📦 Official Repository of NeWorldCoin (NWC)
+All official files, logos, policies and contracts are available here:  
+[https://github.com/NeWorldCoin/neworldcoin-assets](https://github.com/NeWorldCoin/neworldcoin-assets)
 - Official logo: `Logo.svg`, additional versions included here
 
 ---
