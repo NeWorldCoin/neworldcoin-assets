@@ -12,7 +12,7 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 ## 🏦 Official Contract (BSC Mainnet)
 
 - **Mainnet Address:**  
-  [`0x22c5C6d081bdD9bCc14608759659302013f1c7C1`](https://bscscan.com/address/0x22c5C6d081bdD9bCc14608759659302013f1c7C1)
+  [`0x22c5C6d081bdD9bCc14608759659302013f1c7C1`](https://bscscan.com/address/0xb22f7282aF0F418F13172Ff12D2b24655C0D30Ac)
 - **Verified and open on BscScan**
 - **Fixed supply:** 100,000,000 NWC (no mint, no inflation)
 - **Symbol:** NWC
