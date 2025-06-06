@@ -118,7 +118,9 @@ Escribe a info@neworldcoin.org o por Telegram.
 
 - Contrato BSC Mainnet: [`0x22c5C6d081bdD9bCc14608759659302013f1c7C1`](https://bscscan.com/address/0x22c5C6d081bdD9bCc14608759659302013f1c7C1)
 - Web oficial: [neworldcoin.org](https://neworldcoin.org)
-- Repositorio GitHub: [link a tu repo]
+## 📦 Repositorio Oficial de NeWorldCoin (NWC)
+Todos los archivos oficiales, logos, políticas y contratos se encuentran aquí:  
+[https://github.com/NeWorldCoin/neworldcoin-assets](https://github.com/NeWorldCoin/neworldcoin-assets)
 - Logo oficial: `Logo.svg`, versiones adicionales en este repositorio
 
 ---
