@@ -17,7 +17,6 @@ Diseñada para micropagos, recompensas, empresas y personas que buscan una moned
 - **Suministro fijo:** 100,000,000 NWC (sin mint, sin inflación)
 - **Símbolo:** NWC
 - **Decimales:** 8
-- | Logo SVG (BSC Mainnet)   | 32x32 px      | `NeWorld Coin(NWC) Logo 64x64-SVG.svg`    |
 
 > **Nunca envíes fondos a ninguna otra dirección. Este es el único contrato válido de NWC.**
 
@@ -31,6 +30,7 @@ Diseñada para micropagos, recompensas, empresas y personas que buscan una moned
 | Logo 512x512 PNG   | 512x512 px    | `NeWorld Coin (NWC)Logo.PNG 512x512.png`  |
 | Logo 200x200 PNG   | 200x200 px    | `NeWorld Coin (NWC)Logo.PNG 200x200.png`  |
 | Logo 64x64 PNG   | 64x64 px    | `NeWorld Coin (NWC)Logo.PNG 64x64.png`  |
+| Logo SVG (BSC Mainnet)   | 32x32 px      | `NeWorld Coin(NWC) Logo.svg`    |
 
 **Siempre usa estos archivos originales. No alteres colores, proporciones ni añadas efectos.**
 
