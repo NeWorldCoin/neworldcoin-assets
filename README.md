@@ -41,15 +41,22 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 
 ---
 
+Official Logo
+![NeWorldCoin Logo](./NeWorld Coin(NWC) Logo 512x512).png
+
+Format: PNG, 512x512 px, transparent background
+Usage: Exclusively for representing the NWC token. Do not alter colors, proportions, or add effects.
+
+---
+
 ## 🎨 Official Color Palette
 
-| Color                   | Hex      | Use Case                    |
-|-------------------------|----------|-----------------------------|
-| Main Gold               | #CFA349  | Coin, border, key text      |
-| Dark Gold               | #806637  | Shadows, accents            |
-| Light Beige / Highlights| #F6DD8A  | Effects and shine           |
-| Deep Blue (Global)      | #205080  | Professional background/web |
-| Black                   | #222222  | Contrast, neutral BG        |
+| Color              | Primary Use                 | Hex     | Sample                                                   |
+| ------------------ | --------------------------- | ------- | -------------------------------------------------------- |
+| Main Gold          | Coin, border, text          | #e3bb73 | ![#e3bb73](https://placehold.co/15x15/e3bb73/e3bb73.png) |
+| Deep Blue          | Background, globe, contrast | #024369 | ![#024369](https://placehold.co/15x15/024369/024369.png) |
+| Black / Glossy     | Shadows, details, suit      | #111717 | ![#111717](https://placehold.co/15x15/111717/111717.png) |
+| White / Light Gold | Highlights, accents         | #f9e2b6 | ![#f9e2b6](https://placehold.co/15x15/f9e2b6/f9e2b6.png) |
 
 ---
 
