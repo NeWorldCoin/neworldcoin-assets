@@ -17,6 +17,7 @@ Diseñada para micropagos, recompensas, empresas y personas que buscan una moned
 - **Suministro fijo:** 100,000,000 NWC (sin mint, sin inflación)
 - **Símbolo:** NWC
 - **Decimales:** 8
+- | Logo SVG (BSC Mainnet)   | 32x32 px      | `NeWorld Coin(NWC) Logo 64x64-SVG.svg`    |
 
 > **Nunca envíes fondos a ninguna otra dirección. Este es el único contrato válido de NWC.**
 
@@ -26,22 +27,12 @@ Diseñada para micropagos, recompensas, empresas y personas que buscan una moned
 
 | Formato            | Dimensiones    | Archivo                                  |
 |--------------------|---------------|-------------------------------------------|
-| Logo SVG Oficial   | Escalable     | `Logo.svg`                                |
-| Logo 500x500 SVG   | 500x500 px    | `NeWorld Coin(NWC) Logo 500x500-SVG.svg`  |
-| Logo 512x512 SVG   | 512x512 px    | `NeWorld Coin(NWC) Logo 512x512-SVG.svg`  |
-| Logo 200x200 SVG   | 200x200 px    | `NeWorld Coin(NWC) Logo 200x200-SVG.svg`  |
-| Logo 64x64 SVG     | 64x64 px      | `NeWorld Coin(NWC) Logo 64x64-SVG.svg`    |
+| Logo PNG Oficial   | Escalable     | `NeWorld Coin (NWC)Logo.PNG.png`                                |
+| Logo 512x512 PNG   | 512x512 px    | `NeWorld Coin (NWC)Logo.PNG 512x512.png`  |
+| Logo 200x200 PNG   | 200x200 px    | `NeWorld Coin (NWC)Logo.PNG 200x200.png`  |
+| Logo 64x64 PNG   | 64x64 px    | `NeWorld Coin (NWC)Logo.PNG 64x64.png`  |
 
 **Siempre usa estos archivos originales. No alteres colores, proporciones ni añadas efectos.**
-
----
-
-## Logo Oficial
-
-![Logo NeWorldCoin](./NeWorld Coin(NWC) Logo 512x512).png
-
-**Formato:** PNG, 512x512 px, fondo transparente  
-**Uso:** Exclusivo para representar el token NWC. No modificar colores, proporciones ni agregar efectos.
 
 ---
 
