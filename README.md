@@ -33,9 +33,9 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 | Format             | Dimensions   | File                                       |
 |--------------------|-------------|---------------------------------------------|
 | Main Logo PNG      | Scalable    | `Logo.svg`                                  |
-| Logo 512x512 PNG   | 512x512 px  | `NeWorld Coin (NWC)Logo.PNG 512x512.png`    |
-| Logo 200x200 PNG   | 200x200 px  | `NeWorld Coin (NWC)Logo.PNG 200x200.png`    |
-| Logo 64x64 PNG   | 64x64 px  | `NeWorld Coin (NWC)Logo.PNG 64x64.png`    |
+| Logo 512x512 PNG   | 512x512 px  | `logo512x512.png`    |
+| Logo 200x200 PNG   | 200x200 px  | `logo200x200.png`    |
+| Logo 64x64 PNG   | 64x64 px  | `logo64x64.png`    |
 | Logo 32x32 SVG     | 32x32 px    | `NeWorld Coin(NWC) Logo.svg`    |
 
 > **Always use these official files. Do not alter colors, proportions, or add effects.**
