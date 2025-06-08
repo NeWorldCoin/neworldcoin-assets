@@ -100,16 +100,17 @@ Escribe a info@neworldcoin.org o por Telegram.
 
 ---
 
-## 🚩 Checklist Maestro de Branding (para revisión)
+## 🚩 Lista de Verificación de Identidad Visual (Branding)
 
-- [x] Contrato Mainnet oficial y verificado
-- [x] Logos en SVG (500x500, 512x512, 200x200, 64x64)
-- [x] README completo, con guía de uso, colores y links de contacto
-- [x] Guía para partners, exchanges y empresas
-- [x] Política de uso y ética
-- [x] Colores oficiales listados
-- [x] Ejemplos de buen/mal uso del logo
-- [x] FAQ y soporte actualizado
+- [x] ✅ **Contrato oficial en mainnet verificado**  
+- [x] ✅ **Logo principal en Trust Wallet (.png, 512x512, fondo transparente)**  
+- [x] ✅ **Logo para BscScan (.svg, 32x32 optimizado)**  
+- [x] ✅ **README completo con guía de uso del logo, colores oficiales y contacto**  
+- [x] ✅ **Paleta oficial de colores incluida**  
+- [x] ✅ **Ejemplos de uso correcto/incorrecto del logo**  
+- [x] ✅ **Guía de colaboración para exchanges y socios (opcional)**  
+- [x] ✅ **Política de ética y uso (no modificar sin autorización)**  
+- [x] ✅ **Canales de contacto y soporte disponibles**
 
 ---
 
