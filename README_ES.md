@@ -36,15 +36,23 @@ Diseñada para micropagos, recompensas, empresas y personas que buscan una moned
 
 ---
 
-## 🎨 Colores Oficiales de Marca
+## Logo Oficial
 
-| Color                | Hex      | Uso principal              |
-|----------------------|----------|----------------------------|
-| Oro principal        | #CFA349  | Moneda, borde, texto       |
-| Oro oscuro           | #806637  | Sombra, detalles           |
-| Beige claro / brillos| #F6DD8A  | Efectos y relieves         |
-| Azul global / fondo  | #205080  | Fondo profesional y web    |
-| Negro                | #222222  | Contraste y fondo neutro   |
+![Logo NeWorldCoin](./NeWorld Coin(NWC) Logo 512x512).png
+
+**Formato:** PNG, 512x512 px, fondo transparente  
+**Uso:** Exclusivo para representar el token NWC. No modificar colores, proporciones ni agregar efectos.
+
+---
+
+## 🎨 Colores Oficiales NeWorldCoin
+
+| Color            | Uso principal             | Hex       | Muestra       |
+|------------------|--------------------------|-----------|---------------|
+| Oro principal    | Moneda, borde, texto      | #e3bb73   | ![#e3bb73](https://placehold.co/15x15/e3bb73/e3bb73.png) |
+| Azul profundo    | Fondo, mundo, contraste   | #024369   | ![#024369](https://placehold.co/15x15/024369/024369.png) |
+| Negro/brillo     | Sombra, detalles, traje   | #111717   | ![#111717](https://placehold.co/15x15/111717/111717.png) |
+| Blanco/dorado claro | Brillo, acentos        | #f9e2b6   | ![#f9e2b6](https://placehold.co/15x15/f9e2b6/f9e2b6.png) |
 
 ---
 
