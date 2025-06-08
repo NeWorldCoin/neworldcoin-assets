@@ -27,9 +27,9 @@ Diseñada para micropagos, recompensas, empresas y personas que buscan una moned
 | Formato            | Dimensiones    | Archivo                                  |
 |--------------------|---------------|-------------------------------------------|
 | Logo PNG Oficial   | Escalable     | `NeWorld Coin (NWC)Logo.PNG.png`                                |
-| Logo 512x512 PNG   | 512x512 px    | `NeWorld Coin (NWC)Logo.PNG 512x512.png`  |
-| Logo 200x200 PNG   | 200x200 px    | `NeWorld Coin (NWC)Logo.PNG 200x200.png`  |
-| Logo 64x64 PNG   | 64x64 px    | `NeWorld Coin (NWC)Logo.PNG 64x64.png`  |
+| Logo 512x512 PNG   | 512x512 px    | `logo512x512.png`  |
+| Logo 200x200 PNG   | 200x200 px    | `logo200x200.png`  |
+| Logo 64x64 PNG   | 64x64 px    | `logo64x64.png`  |
 | Logo SVG (BSC Mainnet)   | 32x32 px      | `NeWorld Coin(NWC) Logo.svg`    |
 
 **Siempre usa estos archivos originales. No alteres colores, proporciones ni añadas efectos.**
