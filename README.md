@@ -32,20 +32,13 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 
 | Format             | Dimensions   | File                                       |
 |--------------------|-------------|---------------------------------------------|
-| Main Logo SVG      | Scalable    | `Logo.svg`                                  |
-| Logo 512x512 SVG   | 512x512 px  | `NeWorld Coin(NWC) Logo 512x512-SVG.svg`    |
-| Logo 200x200 SVG   | 200x200 px  | `NeWorld Coin(NWC) Logo 200x200-SVG.svg`    |
-| Logo 64x64 SVG     | 64x64 px    | `NeWorld Coin(NWC) Logo 64x64-SVG.svg`      |
+| Main Logo PNG      | Scalable    | `Logo.svg`                                  |
+| Logo 512x512 PNG   | 512x512 px  | `NeWorld Coin (NWC)Logo.PNG 512x512.png`    |
+| Logo 200x200 PNG   | 200x200 px  | `NeWorld Coin (NWC)Logo.PNG 200x200.png`    |
+| Logo 64x64 PNG   | 64x64 px  | `NeWorld Coin (NWC)Logo.PNG 64x64.png`    |
+| Logo 32x32 SVG     | 32x32 px    | `NeWorld Coin(NWC) Logo.svg`    |
 
 > **Always use these official files. Do not alter colors, proportions, or add effects.**
-
----
-
-Official Logo
-![NeWorldCoin Logo](./NeWorld Coin(NWC) Logo 512x512).png
-
-Format: PNG, 512x512 px, transparent background
-Usage: Exclusively for representing the NWC token. Do not alter colors, proportions, or add effects.
 
 ---
 
@@ -113,16 +106,17 @@ Email info@neworldcoin.org or contact us via Telegram.
 
 ---
 
-## 🚩 Branding Checklist (for your internal review)
+## 🚩 Branding Checklist (for internal and partner review)
 
-- [x] Mainnet contract officially specified
-- [x] Logos in SVG (500x500, 512x512, 200x200, 64x64)
-- [x] Complete README with usage guide, colors, and contact info
-- [x] Guide for partners, exchanges, and companies
-- [x] Ethics and use policy
-- [x] Official color palette
-- [x] Examples of correct/incorrect logo usage
-- [x] FAQ and updated support contacts
+- [x] ✅ **Mainnet contract officially verified**  
+- [x] ✅ **Trust Wallet logo (.png, 512x512, transparent background)**  
+- [x] ✅ **BscScan logo (.svg, 32x32 optimized)**  
+- [x] ✅ **Complete README with logo usage, brand colors, and contact info**  
+- [x] ✅ **Official color palette included**  
+- [x] ✅ **Visual examples of correct/incorrect logo use**  
+- [x] ✅ **Partner/exchange onboarding guide ready (optional)**  
+- [x] ✅ **Ethics & usage policy defined (no unauthorized modifications)**  
+- [x] ✅ **Support and contact channels available**
 
 ---
 
