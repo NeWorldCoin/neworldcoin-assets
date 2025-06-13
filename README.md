@@ -32,10 +32,13 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 
 | Format             | Dimensions   | File                                       |
 |--------------------|-------------|---------------------------------------------|
-| Logo 512x512 PNG   | 512x512 px  | `logo512x512.png`    |
-| Logo 200x200 PNG   | 200x200 px  | `logo200x200.png`    |
-| Logo 64x64 PNG   | 64x64 px  | `logo64x64.png`    |
-| Logo 32x32 SVG     | 32x32 px    | `NeWorld Coin(NWC) Logo.svg`    |
+| Logo 512x512 PNG   | 512x512 px  | `nwc logo512x512.png`    |
+| Logo 200x200 PNG   | 200x200 px  | `nwc logo200x200.png`    |
+| Logo 64x64 PNG   | 64x64 px  | `nwc logo64x64.png`    |
+| Logo 32x32 SVG   | 32x32 px    | `logo.svg`    |
+| Logo 512x512 SVG   | 512x512 px    | `logo 512x512.svg`    |
+| Logo 200x200 SVG   | 200x200 px    | `logo 200x200.svg`    |
+| Logo 64x64 SVG   | 64x64 px    | `logo 64x64.svg`    |
 
 > **Always use these official files. Do not alter colors, proportions, or add effects.**
 
@@ -43,12 +46,13 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 
 ## 🎨 Official Color Palette
 
-| Color              | Primary Use                 | Hex     | Sample                                                   |
-| ------------------ | --------------------------- | ------- | -------------------------------------------------------- |
-| Main Gold          | Coin, border, text          | #e3bb73 | ![#e3bb73](https://placehold.co/15x15/e3bb73/e3bb73.png) |
-| Deep Blue          | Background, globe, contrast | #024369 | ![#024369](https://placehold.co/15x15/024369/024369.png) |
-| Black / Glossy     | Shadows, details, suit      | #111717 | ![#111717](https://placehold.co/15x15/111717/111717.png) |
-| White / Light Gold | Highlights, accents         | #f9e2b6 | ![#f9e2b6](https://placehold.co/15x15/f9e2b6/f9e2b6.png) |
+| Color Name             | Primary Use                     | Hex      | Sample                                                   |
+|------------------------|----------------------------------|----------|----------------------------------------------------------|
+| NWC Letters            | Cube letters inside the logo     | `#c99d3c` | ![#c99d3c](https://via.placeholder.com/15/c99d3c/000000?text=+) |
+| Map Background         | Digital map pattern              | `#00aeef` | ![#00aeef](https://via.placeholder.com/15/00aeef/000000?text=+) |
+| Coin Background        | Outer blue background            | `#27aae1` | ![#27aae1](https://via.placeholder.com/15/27aae1/000000?text=+) |
+| Coin Gold Border       | Outer golden ring of the coin    | `#ebca47` | ![#ebca47](https://via.placeholder.com/15/ebca47/000000?text=+) |
+| Surrounding Text Color| Letters around the coin border   | `#000000` | ![#000000](https://via.placeholder.com/15/000000/ffffff?text=+) |
 
 ---
 
