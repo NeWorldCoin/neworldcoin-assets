@@ -48,12 +48,11 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 
 | Color Name             | Primary Use                     | Hex      | Sample                                                   |
 |------------------------|----------------------------------|----------|----------------------------------------------------------|
-| NWC Letters            | Cube letters inside the logo     | `#c99d3c` | ![#c99d3c](https://via.placehold.co/15/c99d3c/000000?text=+) |
-| Map Background         | Digital map pattern              | `#00aeef` | ![#00aeef](https://via.placeholder.com/15/00aeef/000000?text=+) |
-| Coin Background        | Outer blue background            | `#27aae1` | ![#27aae1](https://via.placeholder.com/15/27aae1/000000?text=+) |
-| Coin Gold Border       | Outer golden ring of the coin    | `#ebca47` | ![#ebca47](https://via.placeholder.com/15/ebca47/000000?text=+) |
-| Surrounding Text Color| Letters around the coin border   | `#000000` | ![#000000](https://via.placeholder.com/15/000000/ffffff?text=+) |
-
+| NWC Letters            | Cube letters inside the logo     | `#c99d3c` | ![#c99d3c](https://placehold.co/15x15/c99d3c/c99d3c.png) |
+| Map Background         | Digital map pattern              | `#00aeef` | ![#00aeef](https://placehold.co/15x15/00aeef/00aeef.png) |
+| Coin Background        | Outer blue background            | `#27aae1` | ![#27aae1](https://placehold.co/15x15/27aae1/27aae1.png) |
+| Coin Gold Border       | Outer golden ring of the coin    | `#ebca47` | ![#ebca47](https://placehold.co/15x15/ebca47/ebca47.png) |
+| Surrounding Text Color| Letters around the coin border   | `#000000` | ![#000000](https://placehold.co/15x15/000000/000000.png) |
 
 ---
 
