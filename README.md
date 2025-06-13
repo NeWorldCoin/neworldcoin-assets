@@ -50,7 +50,7 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 |------------------------|----------------------------------|----------|----------------------------------------------------------|
 | NWC Letters            | Cube letters inside the logo     | `#c99d3c` | ![#c99d3c](https://placehold.co/15x15/c99d3c/c99d3c.png) |
 | Map Background         | Digital map pattern              | `#00aeef` | ![#00aeef](https://placehold.co/15x15/00aeef/00aeef.png) |
-| Coin Background        | Outer blue background            | `#27aae1` | ![#27aae1](https://placehold.co/15x15/27aae1/27aae1.png) |
+| Coin Background        | Outer blue background            | `#0a5d7a` | ![#0a5d7a](https://placehold.co/15x15/0a5d7a/0a5d7a.png) |
 | Coin Gold Border       | Outer golden ring of the coin    | `#ebca47` | ![#ebca47](https://placehold.co/15x15/ebca47/ebca47.png) |
 | Surrounding Text Color| Letters around the coin border   | `#000000` | ![#000000](https://placehold.co/15x15/000000/000000.png) |
 
