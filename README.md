@@ -48,7 +48,7 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 
 | Color Name             | Primary Use                     | Hex      | Sample                                                   |
 |------------------------|----------------------------------|----------|----------------------------------------------------------|
-| NWC Letters            | Cube letters inside the logo     | `#c99d3c` | ![#c99d3c](https://via.placeholder.com/15/c99d3c/000000?text=+) |
+| NWC Letters            | Cube letters inside the logo     | `#c99d3c` | ![#c99d3c](https://via.placehold.co/15/c99d3c/000000?text=+) |
 | Map Background         | Digital map pattern              | `#00aeef` | ![#00aeef](https://via.placeholder.com/15/00aeef/000000?text=+) |
 | Coin Background        | Outer blue background            | `#27aae1` | ![#27aae1](https://via.placeholder.com/15/27aae1/000000?text=+) |
 | Coin Gold Border       | Outer golden ring of the coin    | `#ebca47` | ![#ebca47](https://via.placeholder.com/15/ebca47/000000?text=+) |
