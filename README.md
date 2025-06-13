@@ -32,13 +32,13 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 
 | Format             | Dimensions   | File                                       |
 |--------------------|-------------|---------------------------------------------|
-| Logo 512x512 PNG   | 512x512 px  | `nwc logo512x512.png`    |
-| Logo 200x200 PNG   | 200x200 px  | `nwc logo200x200.png`    |
-| Logo 64x64 PNG   | 64x64 px  | `nwc logo64x64.png`    |
+| Logo 512x512 PNG   | 512x512 px  | `nwc-logo512x512.png`    |
+| Logo 200x200 PNG   | 200x200 px  | `nwc-logo200x200.png`    |
+| Logo 64x64 PNG   | 64x64 px  | `nwc-logo64x64.png`    |
 | Logo 32x32 SVG   | 32x32 px    | `logo.svg`    |
-| Logo 512x512 SVG   | 512x512 px    | `logo 512x512.svg`    |
-| Logo 200x200 SVG   | 200x200 px    | `logo 200x200.svg`    |
-| Logo 64x64 SVG   | 64x64 px    | `logo 64x64.svg`    |
+| Logo 512x512 SVG   | 512x512 px    | `logo512x512.svg`    |
+| Logo 200x200 SVG   | 200x200 px    | `logo200x200.svg`    |
+| Logo 64x64 SVG   | 64x64 px    | `logo64x64.svg`    |
 
 > **Always use these official files. Do not alter colors, proportions, or add effects.**
 
