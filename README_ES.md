@@ -25,11 +25,14 @@ Diseñada para micropagos, recompensas, empresas y personas que buscan una moned
 ## 📦 Archivos de Branding y Logos Oficiales
 
 | Formato            | Dimensiones    | Archivo                                  |
-|--------------------|---------------|-------------------------------------------|
-| Logo 512x512 PNG   | 512x512 px    | `logo512x512.png`  |
-| Logo 200x200 PNG   | 200x200 px    | `logo200x200.png`  |
-| Logo 64x64 PNG   | 64x64 px    | `logo64x64.png`  |
-| Logo SVG (BSC Mainnet)   | 32x32 px      | `NeWorld Coin(NWC) Logo.svg`    |
+|--------------------|-------------|---------------------------------------------|
+| Logo 512x512 PNG   | 512x512 px  | `nwc logo512x512.png`    |
+| Logo 200x200 PNG   | 200x200 px  | `nwc logo200x200.png`    |
+| Logo 64x64 PNG   | 64x64 px  | `nwc logo64x64.png`    |
+| Logo 32x32 SVG   | 32x32 px    | `logo.svg`    |
+| Logo 512x512 SVG   | 512x512 px    | `logo 512x512.svg`    |
+| Logo 200x200 SVG   | 200x200 px    | `logo 200x200.svg`    |
+| Logo 64x64 SVG   | 64x64 px    | `logo 64x64.svg`    |
 
 **Siempre usa estos archivos originales. No alteres colores, proporciones ni añadas efectos.**
 
@@ -37,12 +40,13 @@ Diseñada para micropagos, recompensas, empresas y personas que buscan una moned
 
 ## 🎨 Colores Oficiales NeWorldCoin
 
-| Color            | Uso principal             | Hex       | Muestra       |
-|------------------|--------------------------|-----------|---------------|
-| Oro principal    | Moneda, borde, texto      | #e3bb73   | ![#e3bb73](https://placehold.co/15x15/e3bb73/e3bb73.png) |
-| Azul profundo    | Fondo, mundo, contraste   | #024369   | ![#024369](https://placehold.co/15x15/024369/024369.png) |
-| Negro/brillo     | Sombra, detalles, traje   | #111717   | ![#111717](https://placehold.co/15x15/111717/111717.png) |
-| Blanco/dorado claro | Brillo, acentos        | #f9e2b6   | ![#f9e2b6](https://placehold.co/15x15/f9e2b6/f9e2b6.png) |
+| Nombre del Color        | Uso Principal                           | Hex      | Muestra                                                   |
+|-------------------------|------------------------------------------|----------|-----------------------------------------------------------|
+| Letras NWC              | Letras en cubo dentro del logo           | `#c99d3c` | ![#c99d3c](https://placehold.co/15x15/c99d3c/c99d3c.png) |
+| Fondo del Mapa          | Patrón digital azul                      | `#00aeef` | ![#00aeef](https://placehold.co/15x15/00aeef/00aeef.png) |
+| Fondo de la Moneda      | Parte azul alrededor del logo            | `#0a5d7a` | ![#0a5d7a](https://placehold.co/15x15/0a5d7a/0a5d7a.png) |
+| Borde Dorado de Moneda  | Anillo exterior de la moneda             | `#ebca47` | ![#ebca47](https://placehold.co/15x15/ebca47/ebca47.png) |
+| Letras alrededor moneda | Texto negro alrededor de la moneda       | `#000000` | ![#000000](https://placehold.co/15x15/000000/000000.png) |
 
 ---
 
