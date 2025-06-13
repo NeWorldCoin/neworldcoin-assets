@@ -54,6 +54,7 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 | Coin Gold Border       | Outer golden ring of the coin    | `#ebca47` | ![#ebca47](https://via.placeholder.com/15/ebca47/000000?text=+) |
 | Surrounding Text Color| Letters around the coin border   | `#000000` | ![#000000](https://via.placeholder.com/15/000000/ffffff?text=+) |
 
+
 ---
 
 ## ✔️ Quick Logo Usage Guide
