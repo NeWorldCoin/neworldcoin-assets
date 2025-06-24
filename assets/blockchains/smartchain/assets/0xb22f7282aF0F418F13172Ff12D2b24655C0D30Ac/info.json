@@ -24,5 +24,10 @@
       "name": "pancakeswap",
       "url": "https://pancakeswap.finance/swap?outputCurrency=0xb22f7282aF0F418F13172Ff12D2b24655C0D30Ac"
     }
+  ],
+  "tags": [
+    "payments",
+    "rewards",
+    "micropayments"
   ]
 }
