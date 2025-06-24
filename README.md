@@ -84,8 +84,7 @@ Engineered for micropayments, rewards, businesses, and individuals, NWC offers a
 **Official support:**  
 - Web: [neworldcoin.org](https://neworldcoin.org)
 - Email: info@neworldcoin.org  
-- Telegram: NeWorld Coin (NWC)
-
+- Telegram: [NeWorld Coin (NWC)](https://t.me/NeWorldCoinOficial)
 ---
 
 ## 🛡️ Brand & Ethics Policy
