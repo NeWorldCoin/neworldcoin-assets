@@ -78,7 +78,7 @@ Diseñada para micropagos, recompensas, empresas y personas que buscan una moned
 **Soporte oficial:**  
 - Web: [neworldcoin.org](https://neworldcoin.org)
 - Email: info@neworldcoin.org  
-- Telegram: NeWorld Coin (NWC)
+- Telegram: [NeWorld Coin (NWC)](https://t.me/NeWorldCoinOficial)
 
 ---
 
@@ -99,7 +99,7 @@ Próximamente en PancakeSwap y exchanges oficiales. Evita estafas, revisa siempr
 Solo con autorización previa y cumpliendo las normas de branding.
 
 **¿Cómo contacto al equipo para alianzas o compras OTC?**  
-Escribe a info@neworldcoin.org o por Telegram.
+Escribe a info@neworldcoin.org o por Telegram a https://t.me/NeWorldCoinOficial.
 
 ---
 
