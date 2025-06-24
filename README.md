@@ -104,7 +104,7 @@ Soon available on PancakeSwap and official exchanges. Avoid scams—always verif
 Only with prior authorization and compliance with branding guidelines.
 
 **How do I contact the team for partnerships or OTC deals?**  
-Email info@neworldcoin.org or contact us via Telegram.
+Email info@neworldcoin.org or contact us via Telegram https://t.me/NeWorldCoinOficial.
 
 ---
 
